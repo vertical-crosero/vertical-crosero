@@ -27,4 +27,5 @@ Solution Architect with 10+ years of experience designing scalable cloud archite
 
 ---
 
-📫 charly.rosero@verticaltech.ai
+📫 charly.rosero@verticaltech.ai  
+💼 [linkedin.com/in/charlyrosero](https://www.linkedin.com/in/charlyrosero)
